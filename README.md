@@ -33,8 +33,6 @@ la fréquence de la tâche CRON sera suffisante.
 - `PHP7` : langage de programmation
 - `Symfony4`: framework PHP
 - `Composer` : outil de gestion de dépendences
-- `Docker` : une technologie qui a pour but de faciliter les déploiements d'application, et la gestion du dimensionnement de l'infrastructure sous-jacente.
-- `Docker Compose`: un outil qui permet de décrire (dans un fichier YAML) et gérer plusieurs conteneurs comme un ensemble de services inter-connectés
 - `friendsofphp/php-cs-fixer`: outil qui analyse et corrige le code de l'application pour suivre les normes de codage PHP telles que définies dans le PSR-1, PSR-2, etc.
 
 ### Description du code :
