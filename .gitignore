@@ -1,0 +1,15 @@
+
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/var/
+/vendor/
+###< symfony/framework-bundle ###
+
+###> php cs fixer ###
+.php_cs.cache
+###< php cs fixer ###
+
+.idea/
